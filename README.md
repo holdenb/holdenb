@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Holden</h1>
-<h3 align="center">I am a backend engineer working in healthcare with a passion for AI and robotics</h3>
+<h3 align="center">I am a systems software engineer with a passion for AI and robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holdenb&label=Profile%20views&color=0e75b6&style=flat" alt="holdenb" /> </p>
 
