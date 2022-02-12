@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Holden</h1>
 <h3 align="center">I am a systems software engineer with a passion for AI and robotics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=holdenb&label=Profile%20views&color=0e75b6&style=flat" alt="holdenb" /> </p>
-
 <p align="left"> <a href="https://twitter.com/holdenbabineaux" target="blank"><img src="https://img.shields.io/twitter/follow/holdenbabineaux?logo=twitter&style=for-the-badge" alt="holdenbabineaux" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
