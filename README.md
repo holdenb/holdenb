@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Holden</h1>
-<h3 align="center">I am a systems software engineer with a passion for AI and robotics</h3>
+<h3 align="center">I am a Software Engineer with a passion for AI and Robotics</h3>
 
 <p align="left"> <a href="https://twitter.com/holdenbabineaux" target="blank"><img src="https://img.shields.io/twitter/follow/holdenbabineaux?logo=twitter&style=for-the-badge" alt="holdenbabineaux" /></a> </p>
 
