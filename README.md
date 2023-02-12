@@ -26,7 +26,7 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 
 ## 🤓 Education
 
-* BSc in Computer Science, **University of Louisiana at Lafayette**, 2020
+* BSc in Computer Science, **University of Louisiana at Lafayette**, 2016-2020
 
 ## 🚀 Technologies
 
