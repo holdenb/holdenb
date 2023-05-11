@@ -12,21 +12,25 @@
 
 ## 🤖 About
 
-I am a Sr. Software Engineer who previously worked on maritime autonomous systems and robotics, and now works on high-performance distributed healthcare eMHR systems.
+I am currently a Senior Software Engineer who previously worked on maritime autonomous systems and robotics, and now works on high-performance distributed healthcare eMHR systems.
 
-Part of a team that won the 2022 MedTech Breakthrough Award in healthcare technology for our Canopy platform (eMHR middleware).
-Previously part of a team that shipped globally-leading maritime autonomous systems that completed a successful 3000 nautical mile transit, while fully-unmanned.
+My industry experience has landed me on a team that won the 2022 MedTech Breakthrough Award in healthcare technology for our Canopy platform (eMHR middleware).
+I was previously part of a team that shipped globally-leading maritime autonomous systems that completed a successful 3000 nautical mile transit, while fully-unmanned.
+
+I am currently in year one of my Master's in Electrical & Computer Engineering at Purdue University - West Lafayette. My focuses are in Computer Engineering and Automatic Control.
+My research includes HRI (Human-Robot Interaction) and Multi-Agent Control in Noisy Environments.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
 
 ## 🧑‍💻 Experience
 
-* **Sr. Software Engineer**, _Oak Street Health_, 2021-Present
+* **Senior Software Engineer**, _Oak Street Health_, 2021-Present
 * **Autonomous Systems Software Engineer**, _L3Harris Technologies_, 2017-2021
 
 ## 🤓 Education
 
-* BSc in Computer Science, **University of Louisiana at Lafayette**, 2016-2020
+* MS - Elecrical & Computer Engineering, **Purdue University**, 2023-Present
+* BS - Computer Science, **University of Louisiana at Lafayette**, 2016-2020
 
 ## 🚀 Technologies
 
