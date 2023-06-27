@@ -17,8 +17,8 @@ I am currently a Senior Software Engineer who previously worked on maritime auto
 My industry experience has landed me on a team that won the 2022 MedTech Breakthrough Award in healthcare technology for our Canopy platform (eMHR middleware).
 I was previously part of a team that shipped globally-leading maritime autonomous systems that completed a successful 3000 nautical mile transit, while fully-unmanned.
 
-I am currently in year one of my Master's in Electrical & Computer Engineering at Purdue University - West Lafayette. My focuses are in Computer Engineering and Automatic Control.
-My research includes HRI (Human-Robot Interaction) and Multi-Agent Control in Noisy Environments.
+I am currently in year one of my Master's in Electrical & Computer Engineering at Purdue University - West Lafayette. My focuses are in Communications, Networking, Signal & Image Processing.
+My research includes Brain Machine Interfaces, Biomedical Signal Processing, and Machine Learning applications in Healthcare Technologies.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
 
