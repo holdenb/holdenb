@@ -12,12 +12,12 @@
 
 ## 🤖 About
 
-I am currently a Senior Software Engineer who previously worked on maritime autonomous systems and robotics, and now works on high-performance distributed healthcare eMHR systems.
+I am an experienced Senior Software Engineer who wants to help shape the modern landscape of robotics and human-robot interaction.
+I've contributed to cutting-edge maritime autonomous systems and award-winning eMHR software in the healthcare MedTech sector.
 
-My industry experience has landed me on a team that won the 2022 MedTech Breakthrough Award in healthcare technology for our Canopy platform (eMHR middleware).
-I was previously part of a team that shipped globally-leading maritime autonomous systems that completed a successful 3000 nautical mile transit, while fully-unmanned.
-
-I am currently in year one of my Master's in Electrical & Computer Engineering at Purdue University - West Lafayette. My focuses are in Computer Engineering and Automatic Control
+I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University (WL), focusing on multi-agent control and human-robot interaction.
+I'm passionate about pushing boundaries in technology and seeking new challenges.
+Right now the industry needs more Computer Scientists who are willing to step into the realm of optimal and data-driven control, and my goal is to be one of those scientists.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
 
@@ -28,7 +28,7 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 
 ## 🤓 Education
 
-* MS - Elecrical & Computer Engineering, **Purdue University**, 2023-Present
+* MS - Elecrical & Computer Engineering, **Purdue University (WL)**, 2023-Present
 * BS - Computer Science, **University of Louisiana at Lafayette**, 2016-2020
 
 ## 🚀 Technologies
