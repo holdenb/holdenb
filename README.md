@@ -28,7 +28,7 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 
 ## 🤓 Education
 
-* MS - Elecrical & Computer Engineering, **Purdue University (WL)**, 2023-Present
+* MS - Elecrical & Computer Engineering, **Purdue University**, 2023-Present
 * BS - Computer Science, **University of Louisiana at Lafayette**, 2016-2020
 
 ## 🚀 Technologies
