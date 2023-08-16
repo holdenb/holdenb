@@ -12,12 +12,11 @@
 
 ## 🤖 About
 
-I am an experienced Senior Software Engineer who wants to help shape the modern landscape of robotics and human-robot interaction.
-I've contributed to cutting-edge maritime autonomous systems and award-winning eMHR software in the healthcare MedTech sector.
+I am an experienced Senior Software Engineer with interests in Efficient & Real-time Computer Vision, Cognative Sensing, and Localized Learning.
+I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare eMHR software, and academic research in heterogeneous and distributed computing.
 
-I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University (WL), focusing on multi-agent control and human-robot interaction.
+I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Computer Vision, Imaging, & Embedded Systems (Edge and Efficient Machine learning on embedded platforms).
 I'm passionate about pushing boundaries in technology and seeking new challenges.
-Right now the industry needs more Computer Scientists who are willing to step into the realm of optimal and data-driven control, and my goal is to be one of those scientists.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
 
