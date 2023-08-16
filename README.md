@@ -12,7 +12,7 @@
 
 ## 🤖 About
 
-I am an experienced Senior Software Engineer with interests in Efficient & Real-time Computer Vision, Cognative Sensing, and Localized Learning.
+I am an experienced Senior Software Engineer with interests in Efficient & Real-time Computer Vision, Cognitive Sensing, and Localized Learning.
 I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare eMHR software, and academic research in heterogeneous and distributed computing.
 
 I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Computer Vision, Imaging, and Embedded Systems (edge and efficient machine learning on embedded platforms).
