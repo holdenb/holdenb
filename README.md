@@ -12,10 +12,10 @@
 
 ## 🤖 About
 
-I am an experienced Senior Software Engineer with interests in Efficient & Real-time Computer Vision, Cognitive Sensing, and Localized Learning.
+I am an experienced Senior Software Engineer with interests in Computer Vision, Data-Driven Control, and Robotics.
 I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare eMHR software, and academic research in heterogeneous and distributed computing.
 
-I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Computer Vision, Imaging, and Embedded Systems (edge and efficient machine learning on embedded systems).
+I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Embedded Systems, Multi-Agent Control, and Computer Vision with Robotics Applications.
 I'm passionate about pushing boundaries in technology and seeking new challenges.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
