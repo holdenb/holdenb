@@ -16,7 +16,7 @@ I am an experienced Senior Software Engineer with interests in Robotics, Embedde
 I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare EMR software, and academic research in heterogeneous & distributed computing.
 
 I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Robotics and Automatic Control.
-I am passionate about pushing the boundaries of human control of dyanmical systems.
+I am passionate about pushing the boundaries of human control of dynamical systems.
 Modern control theorists are bad at advertising. It's time to change that.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
@@ -29,10 +29,10 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 
 ## 🤓 Education
 
-* MS, Elecrical & Computer Engineering | **Purdue University** | 2023-Present <br>
+* MS, Electrical & Computer Engineering | *Purdue University** | 2023-Present <br>
   * Robotics & Automatic Control
 * BS, Computer Science | **University of Louisiana at Lafayette** | 2016-2020 <br>
-  * Scientific Computing & Distrubuted Heterogeneous Systems
+  * Scientific Computing & Distributed Heterogeneous Systems
 
 ## 🚀 Technologies
 
