@@ -23,15 +23,16 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 
 ## 🧑‍💻 Experience
 
-* **Senior Software Engineer**, _Oak Street Health_, 2021-Present
-* **Autonomous Systems Software Engineer**, _L3Harris Technologies_, 2018-2021
-* **Software Engineer, Intern**, _ASV Global_, 2017-2018
+* **Senior Software Engineer** | _Oak Street Health_ | 2021-Present
+* **Autonomous Systems Software Engineer** | _L3Harris Technologies_ | 2018-2021
+* **Software Engineer, Intern** | _ASV Global_ | 2017-2018
+* **Undergraduate Research Assistant** | _University of Louisiana at Lafayette_ | 2017-2018
 
 ## 🤓 Education
 
-* MS, Electrical & Computer Engineering | *Purdue University** | 2023-Present <br>
+* **MS, Electrical & Computer Engineering** | _Purdue University_ | 2023-Present <br>
   * Robotics & Automatic Control
-* BS, Computer Science | **University of Louisiana at Lafayette** | 2016-2020 <br>
+* **BS, Computer Science** | _University of Louisiana at Lafayette_ | 2016-2020 <br>
   * Scientific Computing & Distributed Heterogeneous Systems
 
 ## 🚀 Technologies
