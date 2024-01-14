@@ -12,23 +12,27 @@
 
 ## 🤖 About
 
-I am an experienced Senior Software Engineer with interests in Computer Vision, Data-Driven Control, and Robotics.
-I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare eMHR software, and academic research in heterogeneous and distributed computing.
+I am an experienced Senior Software Engineer with interests in Robotics, Embedded Systems, Automatic Control, and Multi-Agent Learning.
+I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare EMR software, and academic research in heterogeneous & distributed computing.
 
-I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Embedded Systems, Multi-Agent Control, and Computer Vision with Robotics Applications.
-I'm passionate about pushing boundaries in technology and seeking new challenges.
+I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Robotics and Automatic Control.
+I am passionate about pushing the boundaries of human control of dyanmical systems.
+Modern control theorists are bad at advertising. It's time to change that.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
 
 ## 🧑‍💻 Experience
 
 * **Senior Software Engineer**, _Oak Street Health_, 2021-Present
-* **Autonomous Systems Software Engineer**, _L3Harris Technologies_, 2017-2021
+* **Autonomous Systems Software Engineer**, _L3Harris Technologies_, 2018-2021
+* **Software Engineer, Intern**, _ASV Global_, 2017-2018
 
 ## 🤓 Education
 
-* MS - Elecrical & Computer Engineering, **Purdue University**, 2023-Present
-* BS - Computer Science, **University of Louisiana at Lafayette**, 2016-2020
+* MS, Elecrical & Computer Engineering | **Purdue University** | 2023-Present <br>
+  * Robotics & Automatic Control
+* BS, Computer Science | **University of Louisiana at Lafayette** | 2016-2020 <br>
+  * Scientific Computing & Distrubuted Heterogeneous Systems
 
 ## 🚀 Technologies
 
