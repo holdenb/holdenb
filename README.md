@@ -16,24 +16,28 @@ I am an experienced Senior Software Engineer with interests in Robotics, Embedde
 I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare EMR software, and academic research in heterogeneous & distributed computing.
 
 I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Robotics and Automatic Control.
-I am passionate about pushing the boundaries of human control of dynamical systems.
-Modern control theorists are bad at advertising. It's time to change that.
 
 Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or social media.
 
 ## 🧑‍💻 Experience
 
-* **Senior Software Engineer** | _Oak Street Health_ | 2021-Present
-* **Autonomous Systems Software Engineer** | _L3Harris Technologies_ | 2018-2021
-* **Software Engineer, Intern** | _ASV Global_ | 2017-2018
-* **Undergraduate Research Assistant** | _University of Louisiana at Lafayette_ | 2017-2018
+* **Senior Software Engineer**
+  * _Oak Street Health_ (2021-Present)
+* **Autonomous Systems Software Engineer**
+  * _L3Harris Technologies_ (2018-2021)
+* **Software Engineer, Intern**
+  *  _ASV Global_ (2017-2018)
+* **Undergraduate Research Assistant**
+  * _University of Louisiana at Lafayette_ (2017-2018)
 
 ## 🤓 Education
 
-* **MS, Electrical & Computer Engineering** | _Purdue University_ | 2023-Present <br>
-  * Robotics & Automatic Control
-* **BS, Computer Science** | _University of Louisiana at Lafayette_ | 2016-2020 <br>
-  * Scientific Computing & Distributed Heterogeneous Systems
+* **MS, Electrical & Computer Engineering**
+  * _Purdue University_ (2023-Present)
+  * **Focus:** Robotics **|** Embedded Systems **|** Automatic & Multi-Agent Control for Space Systems
+* **BS, Computer Science**
+  * _University of Louisiana at Lafayette_ (2016-2020)
+  * **Focus:** Scientific Computing **|** Distributed Heterogeneous Systems
 
 ## 🚀 Technologies
 
