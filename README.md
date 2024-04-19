@@ -28,7 +28,7 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 * **Engineering Intern, Autonomy & Perception**
   *  _ASV Global_ (2017-2018)
 * **Undergraduate Research Assistant**
-  * _University of Louisiana at Lafayette_ | _High Performance Cloud Computing Lab_ | (2017-2018)
+  * _University of Louisiana at Lafayette_ **|** _High Performance Cloud Computing Lab_ (2017-2018)
 
 ## 🤓 Education
 
