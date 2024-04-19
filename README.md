@@ -21,11 +21,11 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 
 ## 🧑‍💻 Experience
 
-* **Senior Software Engineer**
+* **Senior Engineer I**
   * _Oak Street Health_ (2021-Present)
-* **Autonomous Systems Software Engineer**
+* **Software Engineer, Autonomous Systems**
   * _L3Harris Technologies_ (2018-2021)
-* **Software Engineer, Intern**
+* **Engineering Intern, Autonomy & Perception**
   *  _ASV Global_ (2017-2018)
 * **Undergraduate Research Assistant**
   * _University of Louisiana at Lafayette_ (2017-2018)
