@@ -37,7 +37,7 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
   * **Focus:** Robotics **|** Embedded Systems **|** Automatic & Multi-Agent Control for Space Systems
 * **BS, Computer Science**
   * _University of Louisiana at Lafayette_ (2016-2020)
-  * **Focus:** Scientific Computing **|** High Performance Distributed Computing
+  * **Focus:** Scientific Computing **|** High Performance Distributed Systems
 
 ## 🚀 Technologies
 
