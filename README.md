@@ -21,9 +21,9 @@ Feel free to reach out to me via email [📧](mailto:holden.bab@outlook.com) or 
 
 ## 🧑‍💻 Experience
 
-* **Senior Engineer I**
+* **Senior Software Engineer, Back-End Architecture**
   * _Oak Street Health_ (2021-Present)
-* **Software Engineer, Autonomous Systems**
+* **Software Engineer, Planning & Control**
   * _L3Harris Technologies_ (2018-2021)
 * **Engineering Intern, Autonomy & Perception**
   *  _ASV Global_ (2017-2018)
