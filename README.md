@@ -22,26 +22,6 @@ I am currently pursing my Master's in Electrical & Computer Engineering at Purdu
 
 Feel free to reach out to me via email [📧](mailto:holden@holdenb.com) or social media.
 
-## Experience
-
-* **Senior Software Engineer, Back-End Architecture**
-  * _Oak Street Health_ (2021-Present)
-* **Software Engineer, Planning & Control**
-  * _L3Harris Technologies_ (2018-2021)
-* **Engineering Intern, Autonomy & Perception**
-  *  _ASV Global_ (2017-2018)
-* **Undergraduate Research Assistant**
-  * _University of Louisiana at Lafayette_ **|** _High Performance Cloud Computing Lab_ (2017-2018)
-
-## Education
-
-* **MS, Electrical & Computer Engineering**
-  * _Purdue University, Main Campus_ (2023-Present)
-  * **Focus:** Robotics **|** Embedded Systems **|** Automatic & Multi-Agent Control for Space Systems
-* **BS, Computer Science**
-  * _University of Louisiana at Lafayette_ (2016-2020)
-  * **Focus:** Scientific Computing **|** High Performance Distributed Systems
-
 ## Technologies
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
