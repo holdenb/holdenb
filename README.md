@@ -1,4 +1,4 @@
-# Hi, I'm Holden 👋
+# 🤘 👋
 
 <a href="https://holdenb.com">City of Poets</a> |
 <a href="https://hearth.fit">Hearth.fit (Coming Soon!)</a>
