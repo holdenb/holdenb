@@ -21,8 +21,6 @@ I've contributed to cutting-edge maritime autonomous systems, award-winning heal
 
 I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Robotics and Automatic Control.
 
-Feel free to reach out to me via email [📧](mailto:holden@holdenb.com) or social media.
-
 ---
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
