@@ -53,3 +53,6 @@ Feel free to reach out to me via email [📧](mailto:holden@holdenb.com) or soci
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=D24939)
 ![](https://img.shields.io/badge/-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=FC6D26)
+![](https://img.shields.io/badge/-Atlassian-informational?style=flat&logo=Atlassian&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=CMake&logoColor=white&color=064F8C)
+![](https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
