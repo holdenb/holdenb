@@ -35,7 +35,7 @@ Feel free to reach out to me via email [📧](mailto:holden@holdenb.com) or soci
 ## 🤓 Education
 
 * **MS, Electrical & Computer Engineering**
-  * _Purdue University_ (2023-Present)
+  * _Purdue University, Main Campus_ (2023-Present)
   * **Focus:** Robotics **|** Embedded Systems **|** Automatic & Multi-Agent Control for Space Systems
 * **BS, Computer Science**
   * _University of Louisiana at Lafayette_ (2016-2020)
