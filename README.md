@@ -1,19 +1,20 @@
-# 🤘
+🤘
+
+---
 
 <a href="https://holdenb.com">City of Poets</a> |
-<a href="https://hearth.fit">Hearth.fit (Coming Soon!)</a>
+<a href="https://hearth.fit">Hearth.fit (Coming Soon)</a>
 
-<a href="https://twitter.com/HoldenBabineaux">
-  <img align="left" alt="Holden Babineaux | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://x.com/HoldenBabineaux">
+  <img align="left" alt="Holden Babineaux | X" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/holden-babineaux/">
   <img align="left" alt="Holden Babineaux | LinkedIn" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/LI-In-Bug.png" />
 </a>
-
 <br />
 
-## About
+---
 
 I am an experienced Senior Software Engineer with interests in Robotics, Embedded Systems, Automatic Control, and Multi-Agent Learning.
 I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare EMR software, and academic research in heterogeneous & distributed computing.
@@ -22,7 +23,7 @@ I am currently pursing my Master's in Electrical & Computer Engineering at Purdu
 
 Feel free to reach out to me via email [📧](mailto:holden@holdenb.com) or social media.
 
-## Technologies
+---
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
