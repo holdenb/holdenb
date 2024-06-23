@@ -1,6 +1,4 @@
-🤘
-
----
+##  🤘
 
 <a href="https://holdenb.com">City of Poets</a> |
 <a href="https://hearth.fit">Hearth.fit (Coming Soon)</a>
@@ -14,14 +12,14 @@
 </a>
 <br />
 
----
+## 
 
 I am an experienced Senior Software Engineer with interests in Robotics, Embedded Systems, Automatic Control, and Multi-Agent Learning.
 I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare EMR software, and academic research in heterogeneous & distributed computing.
 
 I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Robotics and Automatic Control.
 
----
+## 
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
