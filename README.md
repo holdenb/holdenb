@@ -14,10 +14,11 @@
 
 ## 
 
-I am an experienced Senior Software Engineer with interests in Robotics, Embedded Systems, Automatic Control, and Multi-Agent Learning.
-I've contributed to cutting-edge maritime autonomous systems, award-winning healthcare EMR software, and academic research in heterogeneous & distributed computing.
+Senior Software Engineer with a deep passion for Robotics, Embedded Systems, and Modern Control. My career has spanned the development of cutting-edge maritime autonomous systems, pioneering work in distributed healthcare Electronic Medical Health Record (eMHR) systems, and academic research in high-performance distributed computing.
 
-I am currently pursing my Master's in Electrical & Computer Engineering at Purdue University, focusing on Robotics and Automatic Control.
+Currently, I contribute to the advancement of Autonomous Mobile Robots (AMRs) at Seegrid while pursuing a Master’s in Electrical & Computer Engineering at Purdue University, specializing in Robotics and Automatic Control.
+
+Driven by an insatiable curiosity, I am committed to pushing the frontiers of robotic intelligence, control, and computing—where precision meets autonomy, and innovation shapes the future. 🤘
 
 ## 
 
