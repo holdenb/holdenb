@@ -18,8 +18,6 @@ Senior Software Engineer with a deep passion for Robotics, Embedded Systems, and
 
 Currently, I contribute to the advancement of Autonomous Mobile Robots (AMRs) at Seegrid while pursuing a Master’s in Electrical & Computer Engineering at Purdue University, specializing in Robotics and Automatic Control.
 
-Driven by an insatiable curiosity, I am committed to pushing the frontiers of robotic intelligence, control, and computing—where precision meets autonomy, and innovation shapes the future. 🤘
-
 ## 
 
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
