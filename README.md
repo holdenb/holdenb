@@ -1,13 +1,14 @@
 ### Holden Babineaux 
 
 ##
-Currently working on cool stuff involving autonomous mobile robots that move heavy objects 🤘 ...and trudging along through grad school studying robotics and modern control.
+Currently working on autonomous mobile robots that move heavy objects. <br>
+Also doing the grad school thing, studying robotics and automatic control.
 
-I have a passion for understanding how humans can control dynamical and chaotic systems.
+I have a passion for understanding how humans manage to control seemingly chaotic systems.
 
-I've done some other cool things involving maritime autonomous systems and high-performance distributed systems in the healthcare space.
+I have a personal space/blog. One day I'll start posting some things. <br>
+I really just wanted an excuse to build something from scratch using the GOTTH stack (Golang/Templ/Tailwind/HTMX). <br>
 
-I have a personal space/blog. One day I'll start posting some things (I really just wanted an excuse to build something from scratch using the GOTH stack -- Golang/Templ/HTMX).
 You can find it here: <a href="https://holdenb.com">City of Poets</a>
 
 ### Socials
