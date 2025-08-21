@@ -19,5 +19,7 @@ You can find it here: <a href="https://holdenb.com">City of Poets</a>
 * <a href="https://www.linkedin.com/in/holden-babineaux/">
     <img align="left" alt="Holden Babineaux | LinkedIn" width="21px" src="https://github.com/esduran/esduran/blob/master/assets/LI-In-Bug.png" />
   </a>
-* Discord: `schreaux`
+
+#### Discord
+`schreaux`
   
